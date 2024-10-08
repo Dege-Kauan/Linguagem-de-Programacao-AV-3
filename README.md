@@ -1,5 +1,10 @@
 # Projeto: Formas Geométricas em Python
 
+## Vídeo de Apresentação
+
+Confira a apresentação do projeto no YouTube:
+[Apresentação do Projeto](https://youtu.be/b8bXdNf64F8)
+
 ## Descrição
 
 Este projeto foi desenvolvido como parte da avaliação do curso, com o objetivo de aplicar conceitos de **Programação Orientada a Objetos (POO)**. O projeto implementa um sistema para calcular a área e o perímetro de formas geométricas, como retângulos e circunferências, utilizando classes, métodos, atributos, herança, polimorfismo e encapsulamento.
